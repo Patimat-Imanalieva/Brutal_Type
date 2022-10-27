@@ -1119,17 +1119,60 @@ div h2 {
 
 
 
-
-
-
-.u3 {
+.allblock3 {
   font-family: 'BrutalType-ExtraBold' ;
-  font-size: 243.075px;
-  line-height: 124.2%;
-  letter-spacing: -0.05em;
-  color: transparent; /* прозрачный цвет букв */
-  -webkit-text-stroke: 2px black;
-  margin-left: 65px;
+}
+
+.gg4block3, .rrblock3, .dd5block3, .ffblock3, .ccblock3, .g2block3, .ddblock3 {
+  font-size: 78.0625px;
+}
+
+.sblock3, .nblock3 {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #ffffff;
+}
+
+.mblock3, .ublock3, .uublock3, .uu2block3, .uu3block3, .hhblock3, .jjblock3, .jj2block3, .jj3block3, .dblock3, .d2block3, .ddblock3, .dd4block3, .ssblock3, .ss2block3, .ss3block3, .gblock3, .ggblock3, .yyblock3, .qqblock3, .ttblock3, .llblock3, .ll2block3, .wblock3, .aablock3
+{
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #000000;
+  color: #ffffff;
+}
+
+.mblock3, .d2block3, .gblock3, .ublock3, .uu2block3, .uu3block3 {
+  font-size: 125.311px;
+}
+
+.llblock3, .ll2block3, .ss3block3 {
+  font-size: 73.2527px;
+}
+
+.dblock3, .pblock3 {
+  font-size: 110.918px;
+}
+
+.gg2block3, .aablock3, .hhblock3, .wblock3 {
+  font-size: 156.125px;
+}
+
+.nnblock3, .nblock3 {
+  font-size: 130.074px;
+}
+
+.lblock3, .eblock3, .ablock3 {
+  font-size: 76.0254px;
+}
+
+.jjblock3, .tblock3, .jj2block3, .ttblock3, .dd4block3, .vblock3, .yyblock3 {
+  font-size: 77.1441px;
+}
+
+.iblock3, .kblock3, .eeblock3 {
+  font-size: 37.2309px;
+}
+
+.mmblock3, .dd2block3 {
+  font-size: 154.39px;
 }
 
 .el1, .el2, .el3, {
@@ -1138,10 +1181,7 @@ div h2 {
 }
 
 .sblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 124.39px;
-  -webkit-text-stroke-width: 2px;
-   -webkit-text-stroke-color: #ffffff;
   transform: rotate(-135.38deg);
   position: absolute;
   top: 35px;
@@ -1149,11 +1189,6 @@ div h2 {
 }
 
 .mblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 125.311px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-141.07deg);
   position: absolute;
   top: 98px;
@@ -1161,11 +1196,6 @@ div h2 {
 }
 
 .d2block3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 125.311px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-109.36deg);
   position: absolute;
   top: 137px;
@@ -1173,11 +1203,6 @@ div h2 {
 }
 
 .dblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 110.918px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-28.72deg);
   position: absolute;
   top: 147px;
@@ -1185,11 +1210,6 @@ div h2 {
 }
 
 .gblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 125.311px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(131.25deg);
   position: absolute;
   top: 43px;
@@ -1197,11 +1217,6 @@ div h2 {
 }
 
 .wblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 156.125px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-165.62deg);
   position: absolute;
   top: 4px;
@@ -1209,10 +1224,6 @@ div h2 {
 }
 
 .nblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 130.074px;
-  -webkit-text-stroke-width: 2px;
- -webkit-text-stroke-color: #ffffff;
   transform: rotate(124.8deg);
   position: absolute;
   top: 28px;
@@ -1220,11 +1231,6 @@ div h2 {
 }
 
 .ublock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 125.311px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-141.07deg);
   position: absolute;
   top: 93px;
@@ -1232,8 +1238,6 @@ div h2 {
 }
 
 .tblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 77.1441px;
   transform: rotate(164.89deg);
   position: absolute;
   top: 161px;
@@ -1241,8 +1245,6 @@ div h2 {
 }
 
 .pblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 110.918px;
   transform: rotate(152.49deg);
   position: absolute;
   top: 95px;
@@ -1250,8 +1252,6 @@ div h2 {
 }
 
 .ablock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 76.0254px;
   transform: rotate(34.6deg);
   position: absolute;
   top: 197px;
@@ -1259,7 +1259,6 @@ div h2 {
 }
 
 .bbblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 148.249px;
   position: absolute;
   top: 331px;
@@ -1267,7 +1266,6 @@ div h2 {
 }
 
 .wwblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 123.513px;
   transform: rotate(-15deg);
   position: absolute;
@@ -1277,33 +1275,19 @@ div h2 {
 
 
 .llblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 73.2527px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   position: absolute;
   bottom: 154px;
   left: 40px;
 }
 
 .ll2block3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 73.2527px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   position: absolute;
   bottom: 154px;
   left: 40px;
 }
 
 .jj3block3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 57.2537px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(43deg);
   position: absolute;
   bottom: 279px;
@@ -1311,11 +1295,6 @@ div h2 {
 }
 
 .ttblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 77.1441px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(164.89deg);
   position: absolute;
   bottom: 199px;
@@ -1323,11 +1302,6 @@ div h2 {
 }
 
 .jj2block3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 77.1441px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(239deg);
   position: absolute;
   bottom: 146px;
@@ -1335,11 +1309,6 @@ div h2 {
 }
 
 .eeblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 37.2309px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-141.07deg);
   position: absolute;
   bottom: 257px;
@@ -1347,11 +1316,6 @@ div h2 {
 }
 
 .yyblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 77.1441px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-136.9deg);
   position: absolute;
   bottom: 289px;
@@ -1359,11 +1323,6 @@ div h2 {
 }
 
 .ss3block3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 73.2527px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(42.58deg);
   position: absolute;
   bottom: 201px;
@@ -1371,11 +1330,7 @@ div h2 {
 }
 
 .qqblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 74.3182px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(24.55deg);
   position: absolute;
   bottom: 140px;
@@ -1383,11 +1338,7 @@ div h2 {
 }
 
 .ggblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 118.99px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(23.36deg);
   position: absolute;
   bottom: 92px;
@@ -1395,11 +1346,6 @@ div h2 {
 }
 
 .uu2block3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 125.311px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-141.07deg);
   position: absolute;
   bottom: 60px;
@@ -1407,11 +1353,6 @@ div h2 {
 }
 
 .ddblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 78.0625px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(33.28deg);
   position: absolute;
   bottom: 118px;
@@ -1419,11 +1360,7 @@ div h2 {
 }
 
 .ssblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 83.1519px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(143.92deg);
   position: absolute;
   bottom: 36px;
@@ -1431,11 +1368,7 @@ div h2 {
 }
 
 .llblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 118.99px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(77.8deg);
   position: absolute;
   bottom: 20px;
@@ -1443,11 +1376,7 @@ div h2 {
 }
 
 .ss2block3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 118.99px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(128.54deg);
   position: absolute;
   bottom: 24px;
@@ -1455,11 +1384,6 @@ div h2 {
 }
 
 .hhblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 156.125px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-165.62deg);
   position: absolute;
   bottom: 199px;
@@ -1467,11 +1391,6 @@ div h2 {
 }
 
 .uu3block3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 125.311px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-116.12deg);
   position: absolute;
   bottom: 255px;
@@ -1479,11 +1398,6 @@ div h2 {
 }
 
 .aablock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 156.125px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-165.62deg);
   position: absolute;
   bottom: 91px;
@@ -1492,34 +1406,20 @@ div h2 {
 
 
 .jjblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 77.1441px;
   transform: rotate(352deg);
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   position: absolute;
   bottom: 355px;
   left: 156px;
 }
 
 .uublock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 100.249px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   position: absolute;
   bottom: 114px;
   left: 100px;
 }
 
 .dd4block3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 77.1441px;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000000;
-  color: #ffffff;
   transform: rotate(-136.9deg);
   position: absolute;
   bottom: 181px;
@@ -1527,8 +1427,6 @@ div h2 {
 }
 
 .eblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 76.0254px;
   transform: rotate(-134.39deg);
   position: absolute;
   top: 174px;
@@ -1536,8 +1434,6 @@ div h2 {
 }
 
 .kblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 37.2309px;
   transform: rotate(-78.34deg);
   position: absolute;
   top: 140px;
@@ -1545,8 +1441,6 @@ div h2 {
 }
 
 .lblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 76.0254px;
   line-height: 123.7%;
   letter-spacing: -0.035em;
   transform: rotate(-2.87deg);
@@ -1556,8 +1450,6 @@ div h2 {
 }
 
 .vblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 77.1441px;
   transform: rotate(-116.23deg);
   position: absolute;
   top: 88px;
@@ -1565,8 +1457,6 @@ div h2 {
 }
 
 .g2block3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 78.0625px;
   transform: rotate(167.1deg);
   position: absolute;
   top: 100px;
@@ -1574,8 +1464,6 @@ div h2 {
 }
 
 .iblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
-  font-size: 37.2309px;
   transform: rotate(-78.34deg);
   position: absolute;
   top: 114px;
@@ -1583,7 +1471,6 @@ div h2 {
 }
 
 .fblock3 {
-  font-family: 'BrutalType-ExtraBold' ;
   font-size: 64px;
   transform: rotate(-151.71deg);
   position: absolute;
@@ -1593,8 +1480,6 @@ div h2 {
 
 
 .ccblock3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 78.0625px;
   transform: rotate(-165.62deg);
   position: absolute;
   top: 330px;
@@ -1602,8 +1487,6 @@ div h2 {
 }
 
 .gg2block3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 156.125px;
   transform: rotate(-165.62deg);
   position: absolute;
   top: 394px;
@@ -1611,16 +1494,12 @@ div h2 {
 }
 
 .nnblock3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 130.074px;
   position: absolute;
   top: 442px;
   right: 184px;
 }
 
 .dd2block3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 154.39px;
   transform: rotate(-165.62deg);
   position: absolute;
   top: 314px;
@@ -1628,8 +1507,6 @@ div h2 {
 }
 
 .mmblock3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 154.39px;
   transform: rotate(163.75deg);
   position: absolute;
   top: 417px;
@@ -1637,7 +1514,6 @@ div h2 {
 }
 
 .mm2block3 {
-  font-family: 'BrutalType-ExtraBold';
   font-size: 139.616px;
   transform: rotate(16.07deg);
   position: absolute;
@@ -1646,7 +1522,6 @@ div h2 {
 }
 
 .dd3block3 {
-  font-family: 'BrutalType-ExtraBold';
   font-size: 146.602px;
   transform: rotate(-24.16deg);
   position: absolute;
@@ -1655,8 +1530,6 @@ div h2 {
 }
 
 .ffblock3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 78.0625px;
   transform: rotate(151.3deg);
   position: absolute;
   bottom: 65px;
@@ -1664,7 +1537,6 @@ div h2 {
 }
 
 .ee2block3 {
-  font-family: 'BrutalType-ExtraBold';
   font-size: 80.0641px;
   transform: rotate(-157.52deg);
   position: absolute;
@@ -1673,7 +1545,6 @@ div h2 {
 }
 
 .gg3block3 {
-  font-family: 'BrutalType-ExtraBold';
   font-size: 84.4793px;
   transform: rotate(140.28deg);
   position: absolute;
@@ -1682,8 +1553,6 @@ div h2 {
 }
 
 .rrblock3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 78.0625px;
   transform: rotate(-165.62deg);
   position: absolute;
   bottom: 182px;
@@ -1691,8 +1560,6 @@ div h2 {
 }
 
 .dd5block3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 78.0625px;
   transform: rotate(14.6deg);
   position: absolute;
   bottom: 266px;
@@ -1700,8 +1567,6 @@ div h2 {
 }
 
 .gg4block3 {
-  font-family: 'BrutalType-ExtraBold';
-  font-size: 78.0625px;
   transform: rotate(143.36deg);
   position: absolute;
   bottom: 73px;

@@ -12,7 +12,7 @@
       $(this).on('click', function(e) {
         e.preventDefault();
         var scrollTo = $(this).attr('href');
-        var whitespace = scrollTo == '#history' ? 110 : 30;
+        var whitespace = scrollTo == '#history' ? 250 : 30;
         $('html,body').animate({
           scrollTop: $(scrollTo).offset().top - whitespace
         }, 1000);

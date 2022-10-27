@@ -23,22 +23,6 @@ h3 {
 
 }
 
-
-.container {
- display: flex;
- flex-direction: row-reverse;
- justify-content: flex-start;
- align-items: center;
- padding: 0px;
- gap: 60px;
-
- position: absolute;
- width: 1115px;
- height: 24px;
- left: 278px;
- top: 55px;
-}
-
 header {
   display: flex;
   flex-direction: row;
@@ -59,6 +43,9 @@ header nav ul {
   flex-flow: row;
   list-style: none;
   font-weight: 500;
+  flex-direction: column;
+  align-items: right;
+  margin-left: auto;
 }
 
 header nav ul li {
@@ -183,7 +170,7 @@ div h2 {
   top: 121px;
 }
 
-#h3 {
+.h_3 {
   color: #000000;
 }
 
@@ -1117,13 +1104,13 @@ div h2 {
 /* блок 3, буквы */
 
 ol p {
-  transition: 0.6s linear;
+  transition: 0.6s linear; /* плавность перехода */
 }
 
 ol p:hover {
-  letter-spacing: 0em;
-  animation-timing-function: ease-in;
-  animation-iteration-count: infinite;
+  letter-spacing: 0em; /* свойство, на которое меняется при наведении. в моем случае это межбуквенное расстояние */
+  animation-timing-function: ease-in; /* в каком виде происходит переход (сначала замедленное, потом быстро и типо таких видов) */
+  animation-iteration-count: infinite; /* типо сколько раз повторяется. можно настроить даже бесконечно (infinite) */
 }
 
 ul p {

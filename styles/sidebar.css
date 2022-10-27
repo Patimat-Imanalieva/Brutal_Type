@@ -1,0 +1,28 @@
+nav {
+  display: block;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  overflow: hidden;
+  opacity: .2;
+  transition: all .8s ease-out;
+  margin-top: 40px;
+
+
+}
+nav:hover {
+  opacity: 1;
+}
+nav h2 {
+font-size: 17px;
+}
+
+nav a {
+  text-decoration: none;
+
+}
+nav li {
+  margin: 10px 0;
+  font-size: 20px;
+  line-height: 20px;
+}

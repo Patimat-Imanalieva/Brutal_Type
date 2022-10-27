@@ -5,6 +5,21 @@
   <meta charset="utf-8">
   <title>Brutal Type</title>
   <link href="styles/style.css" rel="stylesheet">
+  <script src="javascripts/jquery-3.6.1.js" charset="utf-8"></script>
+  <script>
+  $(function() {
+    $('.sidebar a').each(function() {
+      $(this).on('click', function(e) {
+        e.preventDefault();
+        var scrollTo = $(this).attr('href');
+        var whitespace = scrollTo == '#history' ? 110 : 30;
+        $('html,body').animate({
+          scrollTop: $(scrollTo).offset().top - whitespace
+        }, 1000);
+      });
+    });
+  });
+</script>
 </head>
 <style media="screen">
   html {
@@ -26,9 +41,9 @@
 <body>
   <div class="container">
     <header>
-      <nav>
+      <nav class="sidebar">
         <ul>
-          <li><a href="#history" target="_blank">Происхождение</a></li>
+          <li><a href="#history">Происхождение</a></li>
           <li><a href="#peculiarities">Особенности</a></li>
           <li><a href="#fontanalysis">Шрифтовой анализ</a></li>
           <li><a href="#alphabet">Алфавит</a></li>
@@ -95,17 +110,15 @@
           <img src="images/2.png" alt="">
         </div>
       <div class="text4">
-          <ul>
             <p class="t20">2 <br> 0</p>
             <p class="t13">1 <br> 3</p>
-          </ul>
         </div>
       <p class="p02 p1">Brutal Type — новый гротеск с суровым <br> мужским характером. <br> Основан на формах шрифта Немецкого <br> института стандартизации DIN.</p>
     </div>
 
     <div class="block3">
       <div class="text5">
-          <h3 id="h3" id="peculiarities" >ОСОБЕННОСТИ</h3>
+          <h3 class="h_3" id="peculiarities" >ОСОБЕННОСТИ</h3>
         </div>
       <div class="p03">
           <p class="p1 p1_1"> <strong>—</strong> Гротеск <br> <strong>—</strong> Без засечек <br> <strong>—</strong> 8 стилей <strong>|</strong> начертаний : </p>
@@ -236,7 +249,7 @@
 
     <div class="block6">
       <div class="text8">
-          <h3 id="h3">ШРИФТОВОЙ АНАЛИЗ</h3>
+          <h3 class="h_3" id="fontanalysis">ШРИФТОВОЙ АНАЛИЗ</h3>
         </div>
       <div class="img4">
         <img src="images/4.svg" alt="">
@@ -256,7 +269,7 @@
 
     <div class="block8">
       <div class="text12">
-          <h3 id="h3">АЛФАВИТ</h3>
+          <h3 class="h_3" id="alphabet">АЛФАВИТ</h3>
         </div>
       <div class="img6">
          <img src="images/abcd.png" alt="" height="388" width="1110">
@@ -265,7 +278,7 @@
 
     <div class="block9">
       <div class="text3">
-          <h3 id='history'>ИСПОЛЬЗОВАНИЕ</h3>
+          <h3 id='usage'>ИСПОЛЬЗОВАНИЕ</h3>
         </div>
       <div class="ul1">
         <ul>
@@ -289,7 +302,7 @@
 
     <div class="block10">
       <div class="text16">
-          <h3 id="h3">БИЛЕТЫ</h3>
+          <h3 class="h_3">БИЛЕТЫ</h3>
         </div>
       <div class="list11">
         <div id="square"></div>
@@ -326,7 +339,7 @@
       <div class="list14">
       </div>
       <div class="text17">
-            <h3 id="h3">ВИЗИТКИ</h3>
+            <h3 class="h_3">ВИЗИТКИ</h3>
           </div>
       </div>
     </div>
@@ -352,7 +365,7 @@
 
     <div class="block12">
       <div class="text19">
-            <h3 id='h3'>ЖУРНАЛЫ</h3>
+            <h3 class="h_3">ЖУРНАЛЫ</h3>
           </div>
       </div>
       <div class="img8">

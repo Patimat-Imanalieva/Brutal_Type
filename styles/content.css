@@ -1101,7 +1101,7 @@ div h2 {
 }
 
 
-/* блок 3, буквы */
+/* аннимация */
 
 ol p {
   transition: 0.6s linear; /* плавность перехода */
@@ -1121,6 +1121,9 @@ ul p:hover {
   color: #fff; /* Цвет текста */
   background: #000;
 }
+
+
+/* блок 3, буквы */
 
 .allblock3 {
   font-family: 'BrutalType-ExtraBold' ;

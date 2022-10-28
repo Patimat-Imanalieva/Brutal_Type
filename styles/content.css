@@ -1,7 +1,7 @@
 div {
   position: relative;
-  top: auto;
-  left: auto;
+  margin-top: auto;
+  margin-left: auto;
 }
 
 h4 {
@@ -69,7 +69,7 @@ div h1 {
   line-height: 77.2%;
   letter-spacing: -0.030em;
   position: relative;
-  top: 120px;
+  top: 69px;
   right: -71px;
 }
 
@@ -79,7 +79,7 @@ div h2 {
   letter-spacing: -0.02em;
   position: relative;
   margin-left: 77px;
-  margin-top: 132px;
+  margin-top: 97px;
 }
 
 .img1 {
@@ -123,8 +123,8 @@ div h2 {
 
 .t20 {
   position: relative;
-  top: 133px;
-  left: 359px;
+  margin-top: 133px;
+  margin-left: 359px;
   transform: rotate(-16.43deg);
   color: transparent; /* прозрачный цвет букв */
   -webkit-text-stroke: 3px white;
@@ -133,8 +133,8 @@ div h2 {
 .t13 {
   text-align:  center;
   position: relative;
-  top: 314px;
-  left: -352px;
+  margin-top: 144px;
+  margin-left: -661px;
   transform: rotate(49.43deg);
   color: #000000;
   -webkit-text-stroke: 3px white;
@@ -142,8 +142,8 @@ div h2 {
 
 .p02 {
   position: relative;
-  top: -156px;
-  left: 517px;
+  margin-top: -447px;
+  margin-left: 517px;
   width: 700px;
 }
 
@@ -176,8 +176,8 @@ div h2 {
 
 .p03 {
  position: relative;
- top: 167px;
- left: 39px;
+ margin-top: 145px;
+ margin-left: 39px;
 }
 
 .p1_1 {
@@ -185,8 +185,8 @@ div h2 {
 }
 
 .img3 {
-  left: 669px;
-  top: -145px;
+  left: 678px;
+  top: -299px;
 }
 
 #black {
@@ -390,8 +390,8 @@ div h2 {
 /* блок 6 */
 
 .block6 {
-  top: 0px;
-  left: 0px;
+  margin-top: -62px;
+  margin-left: 0px;
   width: 1440px;
   height: 540px;
 }
@@ -406,8 +406,8 @@ div h2 {
 }
 
 .text10 {
-  bottom: 195px;
-  left: 728px;
+  margin-top: -174px;
+  margin-left: 744px;
 }
 
 #p10 {
@@ -422,8 +422,8 @@ div h2 {
 /* блок 7 */
 
 .block7 {
-  top: 0px;
-  left: 0px;
+  margin-top: 0px;
+  margin-left: 0px;
   width: 1440px;
   height: 691px;
   background: #000000;
@@ -444,27 +444,27 @@ div h2 {
 /* блок 8 */
 
 .block8 {
-  top: -52px;
-  left: 0px;
+  margin-top: -52px;
+  margin-left: 0px;
   width: 1440px;
   height: 671px;
 }
 
 .text12 {
-  top: 91px;
+  top: 66px;
 }
 
 .img6 {
   margin-left: 166px;
-  margin-top: 146px;
+  margin-top: 118px;
 }
 
 
 /* блок 9 */
 
 .block9 {
-  top: -114px;
-  left: 0px;
+  margin-top: -114px;
+  margin-left: 0px;
   width: 1440px;
   height: 769px;
   background: #000000;
@@ -479,7 +479,7 @@ div h2 {
 }
 
 .ul1 {
-  margin-top: 104px;
+  margin-top: 129px;
   margin-left: 40px;
 }
 
@@ -489,22 +489,22 @@ div h2 {
 }
 
 .text15 {
-  top: 54px;
+  top: 33px;
 }
 
 .img7 {
   display: block;
   margin-left: 100px;
   margin-right: auto;
-  top: 64px;
+  top: 44px;
 }
 
 
 /* блок 10 */
 
 .block10 {
-  top: -167px;
-  left: 0px;
+  margin-top: -46px;
+  margin-left: 0px;
   width: 1440px;
   height: 735px;
 }
@@ -721,16 +721,21 @@ div h2 {
 /* блок 11 */
 
 .block11 {
-  top: -216px;
-  left: 0px;
+  margin-top: -42px;
+  margin-left: 0px;
   width: 1440px;
-  height: 729px;
+  height: 800px;
   background: #000000;
 }
 
 .text18 {
   top: 51px;
   left: 0px;
+}
+
+.poster1, .poster2, .poster3 {
+  margin-top: 214px;
+  bottom: 63px;
 }
 
 #poster11 {
@@ -795,8 +800,8 @@ div h2 {
 /* блок 12 */
 
 .block12 {
-  top: -269px;
-  left: 0px;
+  margin-top: -237px;
+  margin-left: 0px;
   width: 1440px;
   height: 771px;
   background: #ffffff;
@@ -811,15 +816,15 @@ div h2 {
   display: block;
   margin-left: 100px;
   margin-right: auto;
-  bottom: 899px;
+  bottom: 630px;
 }
 
 
 /* блок 13 */
 
 .block13 {
-  top: -823px;
-  left: 0px;
+  margin-top: -557px;
+  margin-left: 0px;
   width: 1440px;
   height: 281px;
   background: #000000;
@@ -1101,7 +1106,7 @@ div h2 {
 }
 
 
-/* аннимация */
+/* блок 3, буквы */
 
 ol p {
   transition: 0.6s linear; /* плавность перехода */
@@ -1121,9 +1126,6 @@ ul p:hover {
   color: #fff; /* Цвет текста */
   background: #000;
 }
-
-
-/* блок 3, буквы */
 
 .allblock3 {
   font-family: 'BrutalType-ExtraBold' ;

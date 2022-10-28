@@ -32,7 +32,7 @@ header {
 header nav a {
   color: #000000;
   font-family: 'BrutalType-Medium';
-  font-size: 19.1733px;
+  font-size: 19px;
   letter-spacing: -0.035em;
   text-decoration: none;
   padding: 8px 16px 8px 16px;
@@ -65,7 +65,7 @@ header nav ul li {
 }
 
 div h1 {
-  font-size: 116.337px;
+  font-size: 116px;
   line-height: 77.2%;
   letter-spacing: -0.030em;
   position: relative;
@@ -74,7 +74,7 @@ div h1 {
 }
 
 div h2 {
-  font-size: 43.6262px;
+  font-size: 43px;
   line-height: 123.7%;
   letter-spacing: -0.02em;
   position: relative;
@@ -372,7 +372,7 @@ div h2 {
 
 .aikido {
   font-family: 'BrutalType-Medium' ;
-  font-size: 323.484px;
+  font-size: 323px;
   letter-spacing: -0.035em;
 }
 
@@ -517,14 +517,14 @@ div h2 {
   position: absolute;
   top: 146px;
   left: 83px;
-  width: 183.51px;
-  height: 542.2px;
+  width: 183px;
+  height: 542px;
   background-image: url('../images/bilet1.svg');
 }
 
 #square {
-  width: 45.88px;
-  height: 216.88px;
+  width: 45px;
+  height: 216px;
   background-color: #272727;
   margin-top: 252px;
   margin-left: 10px;
@@ -539,24 +539,24 @@ div h2 {
 }
 
 #square2 {
-  width: 19.46px;
-  height: 36.15px;
+  width: 19px;
+  height: 36px;
   background-color: #272727;
   margin-top: 68px;
   margin-left: 50px;
 }
 
 #square3 {
-  width: 19.46px;
-  height: 172.39px;
+  width: 19px;
+  height: 172px;
   background-color: #272727;
   margin-top: -197px;
   margin-left: 82px;
 }
 
 #square4 {
-  width: 19.46px;
-  height: 72.29px;
+  width: 19px;
+  height: 72px;
   background-color: #272727;
   margin-top: -350px;
   margin-left: 82px;
@@ -571,8 +571,8 @@ div h2 {
 }
 
 #square6 {
-  width: 19.46px;
-  height: 41.71px;
+  width: 19px;
+  height: 41px;
   background-color: #272727;
   margin-top: -202px;
   margin-left: 143px;
@@ -580,7 +580,7 @@ div h2 {
 
 .discipline-, .force {
   font-family: 'BrutalType-Medium';
-  font-size: 33.3659px;
+  font-size: 33px;
   line-height: 91.7%;
   transform: rotate(-90deg);
 }
@@ -603,7 +603,7 @@ div h2 {
 
 .ul3 {
   font-family: 'BrutalType-Medium';
-  font-size: 0.03658px;
+  font-size: 0.03px;
   line-height: 94.7%;
   letter-spacing: -0.075em;
   text-align: right;
@@ -620,7 +620,7 @@ div h2 {
 
 .expo-stories {
   font-family: 'BrutalType-Bold';
-  font-size: 11.122px;
+  font-size: 11px;
   line-height: 84.2%;
   letter-spacing: -0.075em;
   text-align: left;
@@ -630,7 +630,7 @@ div h2 {
 
 .a0209- {
   font-family: 'BrutalType-Black' ;
-  font-size: 20.8537px;
+  font-size: 20px;
   letter-spacing: -0.075em;
   margin-left: 22px;
   margin-top: -34px;
@@ -638,7 +638,7 @@ div h2 {
 
 .com {
   font-family: 'BrutalType-Medium' ;
-  font-size: 3.72358px;
+  font-size: 3px;
   letter-spacing: -0.04em;
   margin-left: 24px;
   margin-top: 387px;
@@ -652,14 +652,14 @@ div h2 {
   position: absolute;
   top: 146px;
   left: 299px;
-  width: 183.51px;
-  height: 542.2px;
+  width: 183px;
+  height: 542px;
   background-image: url('../images/bilet2.svg');
 }
 
 .fighting, .festivale, .winner, .samurai, .technology {
   font-family: 'BrutalType-Medium';
-  font-size: 33.3659px;
+  font-size: 33px;
   line-height: 91.7%;
   transform: rotate(-90deg);
 }
@@ -691,7 +691,7 @@ div h2 {
 
 .bilet2 {
   font-family: 'BrutalType-Bold' ;
-  font-size: 21.0081px;
+  font-size: 21px;
 }
 
 .list13 {
@@ -742,14 +742,14 @@ div h2 {
   position: absolute;
   top: -803px;
   left: 133px;
-  width: 371.14px;
+  width: 371px;
   height: 536px;
   background-image: url('../images/poster1.svg');
 }
 
 .carate {
   font-family: 'BrutalType-Black' ;
-  font-size: 56.4211px;
+  font-size: 56px;
   letter-spacing: -0.035em;
   color: #000000;
   position: absolute;
@@ -761,14 +761,14 @@ div h2 {
   position: absolute;
   top: -803px;
   left: 534px;
-  width: 371.14px;
+  width: 371px;
   height: 536px;
   background-image: url('../images/poster2.svg');
 }
 
 .cultureofpain {
   font-family: 'BrutalType-Black' ;
-  font-size: 31.7368px;
+  font-size: 31px;
   letter-spacing: -0.05em;
   color: #ffffff;
   position: absolute;
@@ -780,14 +780,14 @@ div h2 {
   position: absolute;
   top: -803px;
   right: 137px;
-  width: 371.14px;
+  width: 371px;
   height: 536px;
   background-image: url('../images/poster3.svg');
 }
 
 .beeandwin {
   font-family: 'BrutalType-Regular' ;
-  font-size: 42.3947px;
+  font-size: 42px;
   letter-spacing: -0.075em;
   color: #000000;
   text-decoration-line: underline;
@@ -832,7 +832,7 @@ div h2 {
 
 .pi {
   font-family: 'BrutalType-Medium' ;
-  font-size: 33.2109px;
+  font-size: 33px;
   letter-spacing: -0.06em;
   line-height: 97.2%;
   color: #ffffff;
@@ -875,9 +875,9 @@ div h2 {
   -webkit-text-stroke: 3px black;
 }
 
-.s, .b, .y, .e, .n, .l2, .j, .m, .h3, .a, .q, .w, .r {font-size: 81.4436px;}
+.s, .b, .y, .e, .n, .l2, .j, .m, .h3, .a, .q, .w, .r {font-size: 81.5px;}
 
-.h, .g, .c, .o, .t, .p {font-size: 111.907px;}
+.h, .g, .c, .o, .t, .p {font-size: 111.9px;}
 
 .f, .u, .d2, .u2, .h2, .k {font-size: 20px;}
 
@@ -971,7 +971,7 @@ div h2 {
 }
 
 .x {
-  font-size: 34.5919px;
+  font-size: 34.6px;
   color: transparent; /* прозрачный цвет букв */
   -webkit-text-stroke: 1.7px black;
   transform: rotate(-32.19deg);
@@ -998,7 +998,7 @@ div h2 {
 /* блок 1, буквы (черные) */
 
 .n {
-  font-size: 132.352px;
+  font-size: 132.4px;
   transform: rotate(-19.13deg);
   position: absolute;
   top: 285px;
@@ -1020,7 +1020,7 @@ div h2 {
 }
 
 .l {
-  font-size: 74.7063px;
+  font-size: 74.7px;
   transform: rotate(121.25deg);
   position: absolute;
   top: 67px;
@@ -1056,7 +1056,7 @@ div h2 {
 }
 
 .o2 {
-  font-size: 46.0667px;
+  font-size: 46px;
   transform: rotate(-45.3deg);
   position: absolute;
   bottom: 83px;
@@ -1114,8 +1114,8 @@ ol p {
 
 ol p:hover {
   letter-spacing: 0em; /* свойство, на которое меняется при наведении. в моем случае это межбуквенное расстояние */
-  animation-timing-function: ease-in; /* в каком виде происходит переход (сначала замедленное, потом быстро и типо таких видов) */
-  animation-iteration-count: infinite; /* типо сколько раз повторяется. можно настроить даже бесконечно (infinite) */
+  animation-timing-function: ease-in; /* в каком виде происходит переход (сначала замедленное, потом быстро и таких видов) */
+  animation-iteration-count: infinite; /* сколько раз повторяется. можно настроить даже бесконечно (infinite) */
 }
 
 ul p {
@@ -1132,7 +1132,7 @@ ul p:hover {
 }
 
 .gg4block3, .rrblock3, .dd5block3, .ffblock3, .ccblock3, .g2block3, .ddblock3 {
-  font-size: 78.0625px;
+  font-size: 78px;
 }
 
 .sblock3, .nblock3 {
@@ -1148,39 +1148,39 @@ ul p:hover {
 }
 
 .mblock3, .d2block3, .gblock3, .ublock3, .uu2block3, .uu3block3 {
-  font-size: 125.311px;
+  font-size: 125px;
 }
 
 .llblock3, .ll2block3, .ss3block3 {
-  font-size: 73.2527px;
+  font-size: 73px;
 }
 
 .dblock3, .pblock3 {
-  font-size: 110.918px;
+  font-size: 111px;
 }
 
 .gg2block3, .aablock3, .hhblock3, .wblock3 {
-  font-size: 156.125px;
+  font-size: 156px;
 }
 
 .nnblock3, .nblock3 {
-  font-size: 130.074px;
+  font-size: 130px;
 }
 
 .lblock3, .eblock3, .ablock3 {
-  font-size: 76.0254px;
+  font-size: 76px;
 }
 
 .jjblock3, .tblock3, .jj2block3, .ttblock3, .dd4block3, .vblock3, .yyblock3 {
-  font-size: 77.1441px;
+  font-size: 77px;
 }
 
 .iblock3, .kblock3, .eeblock3 {
-  font-size: 37.2309px;
+  font-size: 37.2px;
 }
 
 .mmblock3, .dd2block3 {
-  font-size: 154.39px;
+  font-size: 154.3px;
 }
 
 .el1, .el2, .el3, {
@@ -1189,7 +1189,7 @@ ul p:hover {
 }
 
 .sblock3 {
-  font-size: 124.39px;
+  font-size: 124px;
   transform: rotate(-135.38deg);
   position: absolute;
   top: 35px;
@@ -1267,14 +1267,14 @@ ul p:hover {
 }
 
 .bbblock3 {
-  font-size: 148.249px;
+  font-size: 148px;
   position: absolute;
   top: 331px;
   left: -3px;
 }
 
 .wwblock3 {
-  font-size: 123.513px;
+  font-size: 123.5px;
   transform: rotate(-15deg);
   position: absolute;
   top: 234px;
@@ -1295,7 +1295,7 @@ ul p:hover {
 }
 
 .jj3block3 {
-  font-size: 57.2537px;
+  font-size: 57px;
   transform: rotate(43deg);
   position: absolute;
   bottom: 279px;
@@ -1338,7 +1338,7 @@ ul p:hover {
 }
 
 .qqblock3 {
-  font-size: 74.3182px;
+  font-size: 74px;
   transform: rotate(24.55deg);
   position: absolute;
   bottom: 140px;
@@ -1346,7 +1346,7 @@ ul p:hover {
 }
 
 .ggblock3 {
-  font-size: 118.99px;
+  font-size: 119px;
   transform: rotate(23.36deg);
   position: absolute;
   bottom: 92px;
@@ -1376,7 +1376,7 @@ ul p:hover {
 }
 
 .llblock3 {
-  font-size: 118.99px;
+  font-size: 119px;
   transform: rotate(77.8deg);
   position: absolute;
   bottom: 20px;
@@ -1384,7 +1384,7 @@ ul p:hover {
 }
 
 .ss2block3 {
-  font-size: 118.99px;
+  font-size: 119px;
   transform: rotate(128.54deg);
   position: absolute;
   bottom: 24px;
@@ -1421,7 +1421,7 @@ ul p:hover {
 }
 
 .uublock3 {
-  font-size: 100.249px;
+  font-size: 100px;
   position: absolute;
   bottom: 114px;
   left: 100px;
@@ -1522,7 +1522,7 @@ ul p:hover {
 }
 
 .mm2block3 {
-  font-size: 139.616px;
+  font-size: 139.6px;
   transform: rotate(16.07deg);
   position: absolute;
   top: 278px;
@@ -1530,7 +1530,7 @@ ul p:hover {
 }
 
 .dd3block3 {
-  font-size: 146.602px;
+  font-size: 146.6px;
   transform: rotate(-24.16deg);
   position: absolute;
   top: 345px;
@@ -1545,7 +1545,7 @@ ul p:hover {
 }
 
 .ee2block3 {
-  font-size: 80.0641px;
+  font-size: 80px;
   transform: rotate(-157.52deg);
   position: absolute;
   bottom: 85px;
@@ -1553,7 +1553,7 @@ ul p:hover {
 }
 
 .gg3block3 {
-  font-size: 84.4793px;
+  font-size: 84.4px;
   transform: rotate(140.28deg);
   position: absolute;
   bottom: 217px;
